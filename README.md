@@ -1,2 +1,2 @@
-# odin-todo-list
-Todo List Project from the JavaScript Course by The Odin Project
+# odin-template
+Template Repo for future projects, with Tailwind, ESLint and Prettier installed
